@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/ziy-eg/Front-end-Mentor_Challenge-01)
-- Live Site URL:(https://ziy-eg.github.io/Front-end-Mentor-Challenge-01/)
+- Live Site URL:(https://ziy-eg.github.io/Front-end-mentor-challenge-01/)
 
 
 ## My process
