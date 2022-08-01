@@ -26,16 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](../design/My Design Screenshots/desktop-view.png)
-![med screen view](../design/My Design Screenshots/Product-view- med-screen.png)
-![mobile screen view](../design/My Design Screenshots/mobile-view.png)
-![Active hover view](../design/My Design Screenshots/desktop-view_active-button.png)
-**Screen Shots is not edited and with a 100% zoom scale for the browser**
+- [Desktop view](design/desktop-view.png)
+- [med screen view](design/Product-view-med-screen.png)
+- [mobile screen view](design/mobile-view.png)
+- [Active hover view](design/desktop-view_active-button.png)
+**Screen Shots are not edited and viewed on 100% zoom for the browser**
 
 ### Links
 
 - Solution URL:(https://github.com/ziy-eg/Front-end-Mentor_Challenge-01)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://ziy-eg.github.io/Front-end-Mentor-Challenge-01/)
 
 
 ## My process
@@ -44,7 +44,7 @@ Users should be able to:
 
 - HTML5 markup
 - CSS custom properties
-- Adobe Photoshop (for editing a new background)
+- Adobe Photoshop (for creating a new background)
 - Adobe Illustrator (for creating vectors)
 - Using **Visual Studio Code** as an editor
 
@@ -55,7 +55,7 @@ Users should be able to:
 ### Continued development
 
 - responsive designs
-- webkit (which I know nothing about how to use it)
+- webkit (which I know nothing about how to use it so far...)
 
 ### Useful resources
 
