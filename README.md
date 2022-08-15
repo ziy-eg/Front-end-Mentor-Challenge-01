@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshots
 
 ![Desktop view](design/desktop-view.png)
-![med screen view](design/Product-view-med-screen.png)
+![mid screen view](design/Product-view-med-screen.png)
 ![mobile screen view](design/mobile-view.png)
 ![Active hover view](design/desktop-view_active-button.png)
 
