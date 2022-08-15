@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/ziy-eg/Front-end-mentor-challenge-01)
+- Solution URL:(https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-using-only-html-and-css-k5YrbPwRnD)
 - Live Site URL:(https://ziy-eg.github.io/Front-end-mentor-challenge-01/)
 
 
